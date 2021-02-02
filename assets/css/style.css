@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Ariabal, sans-serif;
@@ -88,7 +90,7 @@ p {
 
 .benefit-lead,.benefit-brand,.benefit-cost
  {
-    margin-bottom: 32px;
+    margin-bottom: 32px;S
     color: #ffffff;
 }
 
@@ -105,7 +107,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization,.online-reputation-management img,.social-media-marketing 
+.search-engine-optimization,.online-reputation-management ,.social-media-marketing 
 {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,6 +116,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+
 
 .search-engine-optimization img,.social-media-marketing img,.online-reputation-management img 
 {
